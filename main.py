@@ -38,11 +38,3 @@ if __name__=="__main__":
                 notifyme(nTitle,nText)
                 time.sleep(2)
         time.sleep(10)            
-
-
-
-
-
-
-
-
